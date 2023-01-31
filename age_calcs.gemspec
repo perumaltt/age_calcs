@@ -5,8 +5,8 @@ require_relative "lib/age_calcs/version"
 Gem::Specification.new do |spec|
   spec.name = "age_calcs"
   spec.version = AgeCalcs::VERSION
-  spec.authors = ["perumaltt"]
-  spec.email = ["perumal.t@spritle.com"]
+  spec.authors = ["your user_name"]
+  spec.email = ["your email"]
 
   spec.summary = "Like this gem created for calculating age by given date of birth. Just call this method  'AgeCalcs.find_age(yyyy,mm,dd)' as integer value."
   # spec.description = "Call   AgeCalcs.find_age(yyyy,mm,dd) as integer value."
